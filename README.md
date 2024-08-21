@@ -25,17 +25,16 @@ The purpose of this project is to benchmark the performance of Hazelcast in comp
 
 #### 20,000 Records
 
-| Operation       | Time   | Screenshot |
-|-----------------|--------|------------|
-| **Insertion**   | 1021 ms| ![SQL Developer Screenshot for 20,000 Insertions](src/main/resources/oracle-insertion-20k.png) |
-| **Selection**   | 365 ms | ![SQL Developer Screenshot for 20,000 Selections](src/main/resources/oracle-selection-20k.png) |
+| Operation       | Time   | Screenshot |  Operation       | Time   | Screenshot |
+|-----------------|--------|------------| -----------------|--------|------------|
+| **Insertion**   | 1021 ms| ![SQL Developer Screenshot for 20,000 Insertions](src/main/resources/oracle-insertion-20k.png) | **Selection**   | 365 ms | ![SQL Developer Screenshot for 20,000 Selections](src/main/resources/oracle-selection-20k.png) |
 
 #### 100,000 Records
 
-| Operation       | Time   | Screenshot |
-|-----------------|--------|------------|
-| **Insertion**   | 5276 ms| ![SQL Developer Screenshot for 100,000 Insertions](src/main/resources/oracle-insertion-100k.png) |
-| **Selection**   | 1803 ms| ![SQL Developer Screenshot for 100,000 Selections](src/main/resources/oracle-selection-100k.png) |
+| Operation       | Time   | Screenshot | Operation       | Time   | Screenshot |
+|-----------------|--------|------------|-----------------|--------|------------|
+| **Insertion**   | 5276 ms| ![SQL Developer Screenshot for 100,000 Insertions](src/main/resources/oracle-insertion-100k.png) | **Selection**   | 1803 ms| ![SQL Developer Screenshot for 100,000 Selections](src/main/resources/oracle-selection-100k.png) |
+
 
 ### Hazelcast Performance
 
